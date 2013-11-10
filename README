@@ -1,0 +1,9 @@
+Linux Terminal
+
+A program which make a linux like terminal implemented using C language.
+
+Build the file by:
+
+gcc terminal.c
+
+This will generate an executable a.out. ./a.out will make a new linux terminal with most of its functionalities
